@@ -30,13 +30,13 @@ Clique com o botão direito → **Executar como administrador**.
 Exemplo:
 
 ```powershell
-cd "C:\Users\SeuUsuario\Desktop\diagnostico-rede"
+cd "C:\Users\SeuUsuario\Desktop\diagnostico-rede"s
 
 3️⃣ Execute o script:
 .\diagnostico_rede.ps1
 
 🔧 Tecnologias utilizadas
 
-PowerShell 
+PowerShell s
 
 Comandos de rede internos (Test-Connection, Get-NetAdapter, etc.)
